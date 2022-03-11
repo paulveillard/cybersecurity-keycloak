@@ -11,7 +11,7 @@ The full list of supported platforms depends on which protocol you decide to use
 - [Keycloak Features](#keycloak-features)
 - [Distributions of Keycloak](#distribution-of-keycloak)
 - [Keycloak Integrations](#keycloak-integrations)
-- 
+- [Why You Should Know Keycloak](#why-you-should-know-keycloak)
 
 ## Keycloak Features
 
