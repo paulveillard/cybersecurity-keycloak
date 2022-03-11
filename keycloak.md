@@ -126,7 +126,7 @@ I presented some basic information about what Keycloak is, which features it pro
 
 
 
-## FAQ 
+## [FAQ](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
 
     What is Keycloak?
     Keycloak is a tool for Identity and Access Management.
