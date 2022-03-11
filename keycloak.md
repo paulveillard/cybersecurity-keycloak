@@ -98,3 +98,19 @@ Moreover, it has big community support which guarantees that there are a lot of 
 Additionally, Keycloak supports social identity providers like Google or Facebook straight out of the box so if you want to use Social Login, Keycloak may be very useful for you and your team. 
 
 Furthermore, it provides web-based GUI which makes any configurations changes easier. In the end, thanks to Keycloak SSO support you can facilitate your users’ access to multiple services run by your company.
+
+## When It May Not Be the Best Choice
+
+I said why you should use Keycloak so, to stay objective, I will say something about when it may not be the best choice for you.
+
+    Single application with just one client in Keycloak realm – lose all benefits of SSO
+
+    No integration with AD or any other user data provider
+
+    No Social Login
+
+    Pure user database — Keycloak can be used this way but so can a database with specific tables, and it can be much easier to configure if you already have one
+
+    Some kind of enterprise-level guarantees — Keycloak is still an open-source project so you do not have any guarantee provided by its producer about its working or road map and things likes customer support are taken care of by Stack Overflow and surely with no hard deadlines for response time
+
+Keep in mind that meeting any or even all of these conditions by your application does not straight away indicate that you should not be using Keycloak. It only means that it may be profitable for you to reconsider pros and cons of securing your application with Keycloak. Perhaps there is a less complex tool or solution that can be used.
