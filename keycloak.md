@@ -7,7 +7,7 @@ The full list of supported platforms depends on which protocol you decide to use
 
 ![keycloak-overview](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/img/Keycloak-overview.png)
 
-## Table of Contents
+## `Table of Contents`
 - [Keycloak Features](#keycloak-features)
 - [Distributions of Keycloak](#distribution-of-keycloak)
 - [Keycloak Integrations](#keycloak-integrations)
@@ -52,7 +52,7 @@ After the brief introduction from the previous paragraph, I think it is time to 
 These are all of Keycloak features which I wanted to describe today. Of course, this tool offers even more possibilities, which are described in a much more detailed way in the documentation. 
 
 
-## Distributions of Keycloak
+## `Distributions of Keycloak`
 
 Currently, Keycloak has three major distributions.
 
