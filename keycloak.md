@@ -114,3 +114,27 @@ I said why you should use Keycloak so, to stay objective, I will say something a
     Some kind of enterprise-level guarantees — Keycloak is still an open-source project so you do not have any guarantee provided by its producer about its working or road map and things likes customer support are taken care of by Stack Overflow and surely with no hard deadlines for response time
 
 Keep in mind that meeting any or even all of these conditions by your application does not straight away indicate that you should not be using Keycloak. It only means that it may be profitable for you to reconsider pros and cons of securing your application with Keycloak. Perhaps there is a less complex tool or solution that can be used.
+
+## Summing up
+
+I presented some basic information about what Keycloak is, which features it provides, and added few words about its different distributions. I concluded with a short explanation when it may be the better choice than others tools and when it may not. I hope that my article gave you some more general knowledge about Keycloak itself, what it offers and when it may help you. The final decision about diving deeper into Keycloak I leave to you.
+
+
+
+## FAQ 
+
+    What is Keycloak?
+    Keycloak is a tool for Identity and Access Management.
+    Is Keycloak free?
+    Yes, as for now Keycloak is open-source and has Apache License 2.0.
+    Which security protocols are supported by Keycloak?
+    As for now Keycloak supports OpenID Connect, OAuth 2.0 and SAML 2.0.
+    Does Keycloak support SSO?
+    Yes, Keycloak support both Single Sign-On and Single Sign-Out.
+    What are current Keycloak distributions?
+    As for now, Keycloak has 3 different distributions: Server, Docker image and Operator.
+    How can I integrate Keycloak?
+    Keycloak provides API and client library which you can use in your application. Additionally, there are several implementations of this library in many different languages.
+    Is there a tool like Keycloak with enterprise support?
+    Keycloak is an upstream project for Red-hat SSO so I recommend checking it.
+
