@@ -285,10 +285,10 @@ What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/m
 ## Benchmarks
 *  [Gatling based Benchmark by @rvansa](https://github.com/rvansa/keycloak-benchmark)
 
-## Help
+## `Help`
 * [Keycloak on Stackoverflow](https://stackoverflow.com/questions/tagged/keycloak)
 
-## Commercial Offerings
+## `Commercial Offerings`
 *  [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
 *  [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
 *  [JIRA SSO Plugin by codecentric](https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview)
@@ -296,7 +296,7 @@ What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/m
 *  [Keycloak as a Service](https://www.cloud-iam.com)
 *  [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
 
-## Miscellaneous
+## `Miscellaneous`
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
 *  [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
 *  [Use fail2ban to block brute-force attacks to keycloak server](https://gist.github.com/drmalex07/3eba8b98d0ac4a1e821e8e721b3e1816)
