@@ -5,7 +5,12 @@ It is a tool for “Identity and Access Management”, as written on their proje
 
 The full list of supported platforms depends on which protocol you decide to use, currently Keycloak supports three different protocols, and can be viewed in documentation. Keycloak’s initial release took place in September 2014; the current version is 15.0.2 (2021-10-09). It is developed and maintained by people from Red Hat. They are open to new contributors if anyone is interested.
 
-# Keycloak Features
+## Table of Contents
+- [Keycloak Features](#keycloak-features)
+- [Distributions of Keycloak](#distribution-of-keycloak)
+- [Keycloak Integrations](#keycloak-integrations)
+
+## Keycloak Features
 
 After the brief introduction from the previous paragraph, I think it is time to tell you more about what Keycloak can do.
 
@@ -42,7 +47,7 @@ After the brief introduction from the previous paragraph, I think it is time to 
 These are all of Keycloak features which I wanted to describe today. Of course, this tool offers even more possibilities, which are described in a much more detailed way in the documentation. 
 
 
-# Distributions of Keycloak
+## Distributions of Keycloak
 
 Currently, Keycloak has three major distributions.
 
@@ -60,3 +65,21 @@ Currently, Keycloak has three major distributions.
 As you can see, everybody can find an appropriate distribution. If you use Docker or Kubernetes you have Keycloak image and operator. On the other hand, if you prefer a more conventional deployment type you will also find a distribution for you. Even then Keycloak Docker image can be extremely useful for development and testing. 
 
 You can set up your test Keycloak server then do changes and test them. After tests you can restart your Docker image and all changes made to your Keycloak will be reverted and you will get a clear environment for further tests. All three distributions can be downloaded from here.
+
+## Keycloak Integrations
+
+So now you know basics of Keycloak and its features. The last remaining question is - how to integrate it into your app? 
+
+Here I will speak mostly from the perspective of Java eco-system but I will mention also some other languages and frameworks. In Java currently the most popular frameworks like Spring Boot, Quarkus and Micronaut have some sort of adapters that make integrating with Keycloak really easy.
+
+In case of Spring Boot, it is spring-boot-keycloak-starter while in case of Quarkus it is quarks-keycloak-authorization.
+
+On the other hand, in Python package python-keycloak seems pretty useful. 
+
+For Scala-based application library, keycloak4s also sounds good. 
+
+For C# based application Keycloak.Net looks like a handy lib. 
+
+All libraries are open source, developed and maintained by the community built around Keycloak. I will put respective links in the end of the article.
+
+In the case of Spring Boot and Quarkus, thanks to the framework provided abstractions, the whole integration requires just a few lines of code and filling some configuration properties. In other cases, libraries only provide clients for Keycloak API so integration could be more complex.
