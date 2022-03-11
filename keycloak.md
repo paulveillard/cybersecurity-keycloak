@@ -1,4 +1,4 @@
-# What Is Keycloak?
+# `What Is Keycloak?`
 
 > It is a tool for “Identity and Access Management”, as written on their project page on GitHub. Additionally, Keycloak is an open-source tool currently licensed with Apache License 2.0. It is also an upstream project for Red Hat SSO, so if you are looking for something more enterprise-centered, you can check it. 
 
@@ -15,7 +15,7 @@ The full list of supported platforms depends on which protocol you decide to use
 - [Summing up](#summing-up)
 - [FAQ](#faq)
 
-## Keycloak Features
+## `Keycloak Features`
 
 After the brief introduction from the previous paragraph, I think it is time to tell you more about what Keycloak can do.
 
