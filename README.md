@@ -1,4 +1,6 @@
-# cybersecurity-keycloak
+# Keycloak
+> An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositorie, technical guidelines and important resources about Open Source Identity and Access Management solution Keycloak.
+
 
 A curated list of resources for learning about the Open Source Identity and Access Management solution Keycloak. 
 Contains books, websites, blog posts, links to github Repositories.  
