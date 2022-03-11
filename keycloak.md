@@ -83,3 +83,18 @@ For C# based application Keycloak.Net looks like a handy lib.
 All libraries are open source, developed and maintained by the community built around Keycloak. I will put respective links in the end of the article.
 
 In the case of Spring Boot and Quarkus, thanks to the framework provided abstractions, the whole integration requires just a few lines of code and filling some configuration properties. In other cases, libraries only provide clients for Keycloak API so integration could be more complex.
+
+
+## Why You Should Know Keycloak
+
+> First of all, it is free. You may think that it is funny but in fact, most tools with such features like AuthO or Okta are paid. 
+
+Secondly, it supports three different authentication protocols which give you the possibility to cover many applications with different security demands with a single tool. 
+
+Additionally, you can choose an authentication protocol basing on what you need or what you think will be better for your application and you are not limited by the tool you are using. Keycloak is also an upstream project for Red Hat SSO product so you can be sure that it is a well written and well designed system.
+
+Moreover, it has big community support which guarantees that there are a lot of examples of how to do something and that you can count on others to help you with your problems. Keycloak can be very useful when your client has some existing user database like LDAP or Active Directory because it has a built-in mechanism for synchronization with such identity providers. 
+
+Additionally, Keycloak supports social identity providers like Google or Facebook straight out of the box so if you want to use Social Login, Keycloak may be very useful for you and your team. 
+
+Furthermore, it provides web-based GUI which makes any configurations changes easier. In the end, thanks to Keycloak SSO support you can facilitate your users’ access to multiple services run by your company.
