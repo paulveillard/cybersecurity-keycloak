@@ -40,3 +40,23 @@ After the brief introduction from the previous paragraph, I think it is time to 
     Keycloak lets you customize all pages displayed by it to your users. Those pages are in .ftl format so you can use classic HTML  markups and CSS styles to make the page fit your  application style and your company brand. You can even put custom JS scripts as part of pages customization so possibilities are limitless.
 
 These are all of Keycloak features which I wanted to describe today. Of course, this tool offers even more possibilities, which are described in a much more detailed way in the documentation. 
+
+
+# Distributions of Keycloak
+
+Currently, Keycloak has three major distributions.
+
+    Server
+    Standalone application is downloadable from Keycloak page in form of a tar or zip archive with all scripts, docs, and assets needed to work normally. As for now, there are two main versions of this distribution: one is powered by WildFly server while the other is powered by Quarkus. It is now in preview stage so some unexpected error may occur.
+    
+    
+    Docker Image
+    Distribution appropriate for Docker, Podman, Kubernetes, and OpenShift. There are two official docker images for Keycloak: one is held in Quay Container Registry - quay.io/keycloak/keycloak, the second one is held in Docker Hub - jboss/keycloak. You can download both of them with a simple docker pull command.
+    
+    
+    Operator
+    Distribution for Kubernetes and OpenShift based on Operator SDK.
+
+As you can see, everybody can find an appropriate distribution. If you use Docker or Kubernetes you have Keycloak image and operator. On the other hand, if you prefer a more conventional deployment type you will also find a distribution for you. Even then Keycloak Docker image can be extremely useful for development and testing. 
+
+You can set up your test Keycloak server then do changes and test them. After tests you can restart your Docker image and all changes made to your Keycloak will be reverted and you will get a clear environment for further tests. All three distributions can be downloaded from here.
