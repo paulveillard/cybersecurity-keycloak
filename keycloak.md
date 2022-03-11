@@ -125,16 +125,28 @@ I presented some basic information about what Keycloak is, which features it pro
 
     What is Keycloak?
     Keycloak is a tool for Identity and Access Management.
+    
+    
     Is Keycloak free?
     Yes, as for now Keycloak is open-source and has Apache License 2.0.
+    
+    
     Which security protocols are supported by Keycloak?
     As for now Keycloak supports OpenID Connect, OAuth 2.0 and SAML 2.0.
+    
+    
     Does Keycloak support SSO?
     Yes, Keycloak support both Single Sign-On and Single Sign-Out.
+    
+    
     What are current Keycloak distributions?
     As for now, Keycloak has 3 different distributions: Server, Docker image and Operator.
+    
+    
     How can I integrate Keycloak?
     Keycloak provides API and client library which you can use in your application. Additionally, there are several implementations of this library in many different languages.
+    
+    
     Is there a tool like Keycloak with enterprise support?
     Keycloak is an upstream project for Red-hat SSO so I recommend checking it.
 
