@@ -4,7 +4,7 @@
 ## About Keycloak
 What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/keycloak.md)?
 
-[keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/img/keycloak.png)
+![keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/img/keycloak.png)
 
 ## Table of Contents
 
