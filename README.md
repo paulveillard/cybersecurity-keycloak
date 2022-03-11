@@ -1,12 +1,12 @@
 # Keycloak
 > An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Open Source Identity and Access Management solution Keycloak.
 
-## About Keycloak
+## `About Keycloak`
 What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/keycloak.md)?
 
 ![keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/main/img/keycloak.png)
 
-## Table of Contents
+## `Table of Contents`
 
 * [General](#general)
   * [Documentation](#docs)
@@ -33,16 +33,16 @@ What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/m
 * [Commercial Offerings](#commercial-offerings)
 * [Miscellaneous](#miscellaneous)
 
-# General
+# `General`
 
-## Documentation
+## `Documentation`
 
 *  [Keycloak Website](http://www.keycloak.org/)
 *  [Current Documentation](http://www.keycloak.org/documentation.html)
 *  [Archived Documentation](http://www.keycloak.org/documentation-archive.html)
 *  [Product Documentation for Red Hat Single Sign-On](https://access.redhat.com/documentation/en/red-hat-single-sign-on/)
 
-## Discussion Groups and Mailing Lists
+## `Discussion Groups and Mailing Lists`
 *  [Keycloak Users Google Group](https://groups.google.com/forum/#!forum/keycloak-user)
 *  [Keycloak Developers Google Group](https://groups.google.com/forum/#!forum/keycloak-dev)
 *  [Keycloak Discourse Group](https://keycloak.discourse.group/)
@@ -52,7 +52,7 @@ What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/m
 *  [Mailing List Search](http://www.keycloak.org/search)
 *  [Keycloak Subreddit](https://www.reddit.com/r/keycloak)
 
-## Books
+## `Books`
 * [Keycloak - Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications/9781800562493)
 
 ## Articles
