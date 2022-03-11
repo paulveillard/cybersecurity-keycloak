@@ -216,10 +216,10 @@ What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/m
 *  [Apple Social Identity Provider for Keycloak](https://github.com/BenjaminFavre/keycloak-apple-social-identity-provider)
 *  [Micrometer Keycloak extension](https://github.com/micrometer-metrics/micrometer-keycloak)
 
-## Quick demo Videos
+## `Quick demo Videos`
 * [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
 
-## Themes
+## `Themes`
 *  [Community Keycloak Ionic Theme](https://github.com/lfryc/keycloak-ionic-theme)
 *  [A Keycloak theme based on the AdminLTE UI library](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)
 *  [GOV.UK Theme](https://github.com/UKHomeOffice/keycloak-theme-govuk)
@@ -229,12 +229,12 @@ What is [Keycloak](https://github.com/paulveillard/cybersecurity-keycloak/blob/m
 *  [keycloakify: Create Keycloak themes using React](https://github.com/InseeFrLab/keycloakify)
 *  [Keywind: Component-based theme built with Tailwind CSS](https://github.com/lukin/keywind)
 
-## Docker
+##` Docker`
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
 *  [Keycloak Examples as Docker Image](https://hub.docker.com/r/jboss/keycloak-examples)
 *  [Keycloak Maven SDK for managing the entire lifecycle of your extensions with Docker](https://github.com/OpenPj/keycloak-docker-quickstart)
 
-## Kubernetes
+## `Kubernetes`
 *  [Deprecated Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
